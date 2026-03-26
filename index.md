@@ -1,37 +1,48 @@
 ---
-layout: home
+layout: single
 author_profile: true
 title: "Home"
 ---
 
-Machine Learning, Deep Learning, Agent 시스템을 구현하고 기록하는 공간입니다.
+# JIBAEK JANG
+
+AI Engineer를 목표로 LLM, Agent 시스템, FastAPI 기반 백엔드 개발을 수행하고 있습니다.
 
 ---
 
-## 🧠 Study
+## Education
 
-### AI Engineering
-ML, DL, Agent 관련 이론 및 구현 정리  
-👉 [바로가기](/study/ai-engineering/)
-
-### CS Fundamentals
-전공 지식 정리  
-👉 [바로가기](/study/cs/)
-
-### Dev & Infra
-FastAPI, Docker 등  
-👉 [바로가기](/study/dev/)
+Hongik University Industrial Data Engineering B.S
+GPA(major) : 4.03 / 4.5
 
 ---
 
-## 🚀 Projects
+## Language
 
-### RAG 시스템  
-### Text-to-SQL Agent  
-### LangGraph Agent  
+- English : TOEIC 000 / Opic 00
+
+---
+
+## Certifications
+
+- ADsP
+- SQLD
+- 빅데이터분석기사
+
+---
+
+## Skills
+
+
+---
+
+## Projects
 
 👉 [전체 프로젝트 보기](/project/)
 
 ---
 
-## ✍️ Recent Posts
+## 📩 Contact
+
+Email: (추가)
+GitHub: (추가)

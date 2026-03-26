@@ -1,13 +1,10 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Project"
+    url: /project/
 
   - title: "Study"
     url: /study/
-
-  - title: "Project"
-    url: /project/
 
   - title: "Insight Report"
     url: /insight-report/
